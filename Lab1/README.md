@@ -7,4 +7,4 @@
 
 4.  可命令行运行,如：
 
-    “python 1160300909-Exp-1.py path/to/Test-Image-1.bmp”
+    "python 1160300909-Exp-1.py path/to/Test-Image-1.bmp"
